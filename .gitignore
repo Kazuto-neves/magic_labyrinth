@@ -1,0 +1,11 @@
+
+*.pyc
+*.toc
+*.zip
+*.manifest
+*.pkg
+*.pyz
+*.txt
+*.html
+*.spec
+game.exe
