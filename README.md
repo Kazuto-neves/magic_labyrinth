@@ -3,4 +3,4 @@
 ***
 
 ## Download com EXE
-## [![mega-icon-29](https://user-images.githubusercontent.com/64045767/109506235-2d54d600-7a7c-11eb-91f8-1035ed7b00f2.jpg)](https://mega.nz/file/izw2AQoS#lfyfOSGf1Ac0XcoiCO2kTjQgur8ypx5nIgZZCd7RfDQ)
+## [![mega-icon-29](mega-icon-29.ico)](https://mega.nz/file/K74QlJLI#-X_T3HEdqnLMM7r9ssZq7MW91vGkjjp0yrmV-pDQTUs)
